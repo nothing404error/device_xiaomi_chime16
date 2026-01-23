@@ -148,8 +148,6 @@ media.mediadrmservice.enable=true
 # Fingerprint
 persist.vendor.qfp=false
 
-# FRP
-ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
 # Gatekeeper
 vendor.gatekeeper.disable_spu=true
